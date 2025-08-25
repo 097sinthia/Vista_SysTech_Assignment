@@ -238,7 +238,7 @@ const samplePromoCodes = [
     maxDiscount: 100,
     minOrderAmount: 50,
     validFrom: new Date('2024-01-01'),
-    validTo: new Date('2024-06-30'),
+    validTo: new Date('2025-12-30'),
     maxUses: 500,
     usedCount: 0,
     isActive: true
@@ -250,7 +250,7 @@ const samplePromoCodes = [
     maxDiscount: 15,
     minOrderAmount: 75,
     validFrom: new Date('2024-01-01'),
-    validTo: new Date('2024-12-31'),
+    validTo: new Date('2025-11-31'),
     maxUses: 2000,
     usedCount: 0,
     isActive: true
@@ -262,7 +262,7 @@ const samplePromoCodes = [
     maxDiscount: 75,
     minOrderAmount: 30,
     validFrom: new Date('2024-03-01'),
-    validTo: new Date('2024-03-31'),
+    validTo: new Date('2025-10-31'),
     maxUses: 200,
     usedCount: 0,
     isActive: true
